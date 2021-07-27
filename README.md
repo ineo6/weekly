@@ -2,8 +2,8 @@
 
 在信息泛滥的时代，想要看到有价值的信息太难了，我在这里分享下平时看到的信息，希望能对大家有点帮助。
 
-- [GitHub周刊 往期](https://github.com/ineo6/weekly/docs/github)
-- [前端周刊 往期](https://github.com/ineo6/weekly/docs/github)
+- [GitHub周刊 往期](https://github.com/ineo6/weekly/blob/master/docs/github)
+- [前端周刊 往期](https://github.com/ineo6/weekly/blob/master/docs/github)
 
 ## 订阅
 
